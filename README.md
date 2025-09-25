@@ -65,12 +65,12 @@ Real-time video conferencing application with peer-to-peer communication.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAmaL-senpai&show_icons=true&theme=dark&bg_color=000000&title_color=9333EA&text_color=FFFFFF&icon_color=9333EA&border_color=9333EA" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAmaL-senpai&layout=compact&theme=dark&bg_color=000000&title_color=9333EA&text_color=FFFFFF&border_color=9333EA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KAmaL-senpai&show_icons=true&theme=dark&bg_color=000000&title_color=9333EA&text_color=FFFFFF&icon_color=9333EA&border_color=9333EA&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAmaL-senpai&layout=compact&theme=dark&bg_color=000000&title_color=9333EA&text_color=FFFFFF&border_color=9333EA&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAmaL-senpai&theme=dark&background=000000&stroke=9333EA&ring=9333EA&fire=9333EA&currStreakLabel=FFFFFF&border=9333EA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAmaL-senpai&theme=dark&background=000000&stroke=9333EA&ring=9333EA&fire=9333EA&currStreakLabel=FFFFFF&border=9333EA&cache_seconds=1800" />
 </div>
 
 ---
