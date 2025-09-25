@@ -17,7 +17,7 @@
 - 💡 Love creating **real-world solutions**
 
 <div align="center">
-<img src="./assets/david.jpg" 
+<img src="./assets/Kobe.jpeg" 
      width="400" 
      alt="Never Finished - Motivational" 
      style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0; filter: grayscale(100%);">
