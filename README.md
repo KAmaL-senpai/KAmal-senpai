@@ -1,7 +1,7 @@
 # Kamal Sing Bhumij
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Never+Finished" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Never+Finished](https://i.pinimg.com/736x/40/f5/8a/40f58a8fc3dbf2ec25c7fe8c595bfd47.jpg)" alt="Typing SVG" />
 </div>
 
 <div align="center">
