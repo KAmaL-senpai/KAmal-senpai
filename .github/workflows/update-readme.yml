@@ -13,5 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@master
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "with:"
