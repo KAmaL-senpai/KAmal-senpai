@@ -14,6 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Blog Post Workflow
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "with:"
+        run: echo "Workflow running without feed URL"
