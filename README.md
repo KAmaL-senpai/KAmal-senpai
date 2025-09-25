@@ -15,11 +15,9 @@
 - 🎓 **BCA Graduate** from Assam Down town University _(CGPA: 8.49)_
 - 🚀 Currently exploring **WebRTC** and **Real-time Applications**
 - 💡 Love creating **real-world solutions**
-- 🏀 **Mamba Mentality** - Obsessed with continuous improvement
-- 💪 **Never Finished** - Always pushing beyond limits
 
 <div align="center">
-  <img src="./assets/david.jpg" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
+  <img src="./assets/messi.jpg" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
 </div>
 
 ---
@@ -74,11 +72,7 @@ Real-time video conferencing application with peer-to-peer communication.
 
 ---
 
-<div align="center">
-   <img src="./assets/messi.jpg" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
-</div>
 
----
 
 ## Connect
 
