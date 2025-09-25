@@ -12,7 +12,7 @@
 
 - 💻 Full-Stack Developer specializing in **MERN Stack**
 - 👨‍🏫 Web Development TA at **Jainemo Private Limited**
-- 🎓 **BCA Graduate** from Assam Down town University *(CGPA: 8.49)*
+- 🎓 **BCA Graduate** from Assam Down town University _(CGPA: 8.49)_
 - 🚀 Currently exploring **WebRTC** and **Real-time Applications**
 - 💡 Love creating **real-world solutions**
 - 🏀 **Mamba Mentality** - Obsessed with continuous improvement
@@ -42,16 +42,19 @@
 ## Projects
 
 ### 🏨 **LushStay**
+
 Full-stack accommodation booking platform with dynamic filtering and responsive design.  
 **Tech:** React, Node.js, MongoDB, Express  
 [View Code →](https://github.com/KAmaL-senpai/LushStay)
 
-### 📈 **SwiftTrade** 
+### 📈 **SwiftTrade**
+
 Stock portfolio management system with real-time tracking and interactive charts.  
 **Tech:** React, Node.js, Express, MongoDB, Chart.js  
 [View Code →](https://github.com/KAmaL-senpai/SwiftTrade)
 
 ### 🎥 **WebRTC Connect**
+
 Real-time video conferencing application with peer-to-peer communication.  
 **Tech:** WebRTC, Socket.IO, React  
 [View Code →](https://github.com/KAmaL-senpai/WebRTC-Connect)
@@ -72,11 +75,7 @@ Real-time video conferencing application with peer-to-peer communication.
 ---
 
 <div align="center">
-  
-### 🏀 *"Great things come from hard work and perseverance. No excuses."* — **Kobe Bryant**
-
-### 💪 *"The cave you fear to enter holds the treasure you seek."* — **David Goggins**
-
+   <img src="./assets/messi.jpg width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
 </div>
 
 ---
