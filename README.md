@@ -19,7 +19,7 @@
 - 💪 **Never Finished** - Always pushing beyond limits
 
 <div align="center">
-  <img src="https://i.imgur.com/xQp7fOF.png" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
+  <img src="./assets/david.jpg" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px; margin: 30px 0;">
 </div>
 
 ---
