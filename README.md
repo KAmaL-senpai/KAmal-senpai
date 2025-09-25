@@ -1,7 +1,11 @@
 # Kamal Sing Bhumij
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Never+Finished" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/xQp7fOF.png" width="400" alt="Never Finished - Motivational" style="border: 2px solid #9333EA; border-radius: 10px;">
 </div>
 
 ---
@@ -15,6 +19,12 @@
 - 🎓 **BCA Graduate** from Assam Down town University *(CGPA: 8.49)*
 - 🚀 Currently exploring **WebRTC** and **Real-time Applications**
 - 💡 Love creating **real-world solutions**
+- 🏀 **Mamba Mentality** - Obsessed with continuous improvement
+- 💜 **Never Finished** - Always pushing beyond limits
+
+<div align="center">
+  <img src="https://i.imgur.com/2vZnHkF.png" width="350" alt="Kobe Bryant Mamba Mentality" style="border: 2px solid #9333EA; border-radius: 10px; margin: 20px 0;">
+</div>
 
 ---
 
@@ -67,8 +77,11 @@ Real-time video conferencing application with peer-to-peer communication.
 
 <div align="center">
   
-*"The cave you fear to enter holds the treasure you seek."*  
-**— David Goggins**
+### 🏀 *"Great things come from hard work and perseverance. No excuses."* — **Kobe Bryant**
+
+### 💪 *"The cave you fear to enter holds the treasure you seek."* — **David Goggins**
+
+<img src="https://i.imgur.com/8vXnZ2M.png" width="300" alt="Hard Work Motivation" style="border: 2px solid #9333EA; border-radius: 10px; margin: 15px;">
 
 </div>
 
@@ -81,6 +94,10 @@ Real-time video conferencing application with peer-to-peer communication.
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumijkamal969@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-sing-bhumij)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KAmaL-senpai)
+
+<img src="https://i.imgur.com/MqR7vGF.png" width="250" alt="Job Not Finished" style="border: 2px solid #9333EA; border-radius: 10px; margin: 20px 0;">
+
+**The job's not finished.** 💜
 
 </div>
 
