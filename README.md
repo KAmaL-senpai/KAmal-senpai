@@ -63,7 +63,7 @@ Real-time video conferencing application with peer-to-peer communication.
 ---
 
 ## GitHub Stats
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAmaL-senpai&show_icons=true&theme=radical)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KAmaL-senpai&show_icons=true&theme=dark&bg_color=000000&title_color=9333EA&text_color=FFFFFF&icon_color=9333EA&border_color=9333EA&cache_seconds=1800" />
